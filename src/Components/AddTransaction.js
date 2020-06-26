@@ -41,7 +41,7 @@ export const AddTransaction = () => {
         <button className="btn">Add transaction</button>
         </form>
 
-        <label htmlFor="text">SHEERAZ AFZAL</label>
+        <label htmlFor="text">SHEERAZ</label>
         </>
         
   )
